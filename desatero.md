@@ -1,4 +1,4 @@
-# Testerské desatero
+# desatero
 
 1. Ve svého lektora věřiti budeš.
 1. Nevezmu slova nemravného nadarmo.
