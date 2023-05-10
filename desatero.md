@@ -11,5 +11,10 @@
 1. O cizím pohovoru nepromluvíš.
 1. Aniž neopíšeš testovací strategii týmu druhého.
 
+<<<<<<< HEAD
 Nikoho nutit nebudu 
 Na pivo chodit budeš
+=======
+Na pivo chodit budš
+Nikoho nutit nebudeš
+>>>>>>> newone
